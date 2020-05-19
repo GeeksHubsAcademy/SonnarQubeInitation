@@ -1,5 +1,5 @@
-# SonnarQubeInitation
-Repository for install and run sonnar-runner
+# SonnarQube Runner
+Tutorial para instalar y ejecutar sonnar-runner.
 
 ## Prerrequesitos.
 Debemos tener instalado Java, para ello podemos descargar OpenJDK [página](https://openjdk.java.net/install/).
